@@ -48,7 +48,7 @@
 
 // 5-misol
 // Foydalanuvchi tomonidan kiritilgan 5 ta ixtiyoriy sonlar ichida eng kattasi va eng kichigini toping.
-let num = [4, 5, 7, 9, 4];
-let numMax = math.max(...num)
-let numMax = math.min(...num)
-// 6-misol
+// let num = [4, 5, 7, 9, 4];
+// let numMax = math.max(...num)
+// let numMax = math.min(...num)
+// // 6-misol
